@@ -1,6 +1,6 @@
 # thegame
 
-# This a very simple game for Techpro Academy Pre Bootcamp 2025<br>
+# This a very simple game <br>
 
 Open your VS Code and ubuntu Terminal in it <br>
 Clone this repository<br>
